@@ -1,4 +1,4 @@
-# Jitsi Meet iOS SDK releases
+# Fork: Jitsi Meet iOS SDK releases
 
 This repository contains the binaries for the **[Jitsi Meet]() iOS SDK**. Each
 release is tagged in this repository and is composed of 2 frameworks:
